@@ -1,6 +1,12 @@
 # Dqua_genome
 Desmodesmus quadricauda genome annotation
 
+## Idenfy the exact scpes we sequenced
+based recent genpmes from 
+
+Li, L., Wang, H., Chen, X. et al. Horizontal gene transfer and diploidy illuminate evolution and stress adaptation in oleaginous Scenedesmaceae (Chlorophyta). Nat Commun 17, 5618 (2026). https://doi.org/10.1038/s41467-026-71696-2
+
+
 ## Assembling organelle genomes.
 
 I will use [GetOrganelle](https://github.com/Kinggerm/GetOrganelle)
